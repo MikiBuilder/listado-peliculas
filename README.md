@@ -7,7 +7,7 @@
 
 A clean, production-grade movie explorer built with **React 18 + TypeScript**. Features real-time filtering, multi-key sorting, and a fully accessible UI — deployed automatically via GitHub Actions.
 
-**[→ Live demo](https://tu-usuario.github.io/movie-lister)**
+**[→ Live demo](https://mikibuilder.github.io/movie-lister)**
 
 ---
 

@@ -35,7 +35,7 @@ A clean, production-grade movie explorer built with **React 18 + TypeScript**. F
 
 ```bash
 # Clone and install
-git clone https://github.com/tu-usuario/movie-lister.git
+git clone https://github.com/mikibuilder/movie-lister.git
 cd movie-lister
 npm install
 
@@ -87,4 +87,4 @@ src/
 
 ---
 
-Made with ☕ and TypeScript · [tu-usuario](https://github.com/tu-usuario)
+Made with ☕ and TypeScript · [tu-usuario](https://github.com/MikiBuilder)

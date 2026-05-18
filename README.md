@@ -1,13 +1,13 @@
 # 🎬 Listado-Películas — Movie Lister
 
-![CI](https://github.com/tu-usuario/movie-lister/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MikiBuilder/listado-peliculas/actions/workflows/ci.yml/badge.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Tested_with-Vitest-6E9F18?logo=vitest&logoColor=white)
 
 A clean, production-grade movie explorer built with **React 18 + TypeScript**. Features real-time filtering, multi-key sorting, and a fully accessible UI — deployed automatically via GitHub Actions.
 
-**[→ Live demo](https://mikibuilder.github.io/movie-lister)**
+**[→ Live demo](https://mikibuilder.github.io/listado-peliculas)**
 
 ---
 

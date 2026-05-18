@@ -87,4 +87,4 @@ src/
 
 ---
 
-Made with ☕ and TypeScript · [tu-usuario](https://github.com/MikiBuilder)
+Made with ☕ and TypeScript · [MikiBuilder](https://github.com/MikiBuilder)

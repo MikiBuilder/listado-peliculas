@@ -1,4 +1,4 @@
-# 🎬 CineList — Movie Lister
+# 🎬 Listado-Películas — Movie Lister
 
 ![CI](https://github.com/tu-usuario/movie-lister/actions/workflows/ci.yml/badge.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript&logoColor=white)

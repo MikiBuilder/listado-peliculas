@@ -47,7 +47,7 @@ export default function App() {
       <footer className="site-footer">
         <span>Built with React + TypeScript · </span>
         <a
-          href="https://github.com/tu-usuario/movie-lister"
+          href="https://github.com/mikibuilder/movie-lister"
           target="_blank"
           rel="noopener noreferrer"
         >
